@@ -4,6 +4,9 @@ Material complementario del canal "Miguel Borja Academy". Aquí encontrarás el 
 # 📘 Libro de Ejercicios de C++
 
 Bienvenido al repositorio oficial del libro de ejercicios del curso:
+## 📥 Descargar Libro
+
+[📘 Descargar Libro de Ejercicios de C++](./Libro/workbook-cpp-mba.pdf)
 
 🎥 Curso Completo de C++ desde Cero - Miguel Borja Academy
 
